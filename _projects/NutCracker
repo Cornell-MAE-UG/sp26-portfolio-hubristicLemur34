@@ -1,1 +1,7 @@
-
+Objective: Create a nutcracker for macamadamia nuts that is useable by anyone.
+Constraints and Input Parameters: It takes 222.18 kg of strength to crack a macamadamia nut; average grip strength for a woman is 30kg. This design may also use an actuator instead of a hand.
+Approach: The first step was to design a nutcracker for a person to use, and then update it if it was not feasible. Finding the moments about point A would yiepld a ratio of applied force to pivot A to the nut center of mass to pivot of 7.4
+This means that for every inch the macamadamia nut is away from the pivot, the applied force must be 7.4 inches away. 
+Diagram: 
+Discussion:The linear motor actuator for $137.99 is a great choice for the design of a macamadamia nutcracker. It has a max force of 90kg, which allows the ratios between the applied force and the nut to be 2.7. 
+However, this device is pretty useless considering that most people do not crack their own macamademia nuts, and this would end up being used once in 10 years and take up a lot of storage space in the kitchen. 
